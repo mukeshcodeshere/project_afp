@@ -47,9 +47,3 @@ The goal of this project is to develop and backtest options trading strategies u
 
 ### Documentation
 - **`README.md`**: This file provides an overview of the project structure and usage instructions.
-
----
-
-## Setup Instructions
-
-1. Clone the repository:
